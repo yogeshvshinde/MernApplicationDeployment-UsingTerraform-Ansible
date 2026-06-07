@@ -1,0 +1,4 @@
+---
+- import_playbook: mongodb.yml
+- import_playbook: web.yml
+- import_playbook: hardening.yml

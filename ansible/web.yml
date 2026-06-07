@@ -1,0 +1,7 @@
+---
+- hosts: web
+  become: yes
+  tasks:
+    - name: Install Node.js placeholder
+      debug:
+        msg: "Install Node.js, clone TravelMemory, and deploy"

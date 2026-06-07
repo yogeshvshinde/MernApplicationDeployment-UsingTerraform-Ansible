@@ -1,0 +1,7 @@
+---
+- hosts: db
+  become: yes
+  tasks:
+    - name: Install MongoDB placeholder
+      debug:
+        msg: "Install MongoDB tasks go here"

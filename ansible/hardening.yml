@@ -1,0 +1,7 @@
+---
+- hosts: all
+  become: yes
+  tasks:
+    - name: Security hardening placeholder
+      debug:
+        msg: "Disable root login, enforce key auth, firewall rules"
