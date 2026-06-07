@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Travel Memory
 
 `.env` file to work with the backend after creating a database in mongodb: 
@@ -47,3 +48,7 @@ cd frontend
 npm install
 npm start
 ```
+=======
+# MernApplicationDeployment-UsingTerraform-Ansible
+Gain practical experience in deploying a MERN stack application on AWS using infrastructure automation with Terraform and configuration management with Ansible.
+>>>>>>> 0dd1809a174acb52b435232b39f84bd795dc2b3d
